@@ -14,6 +14,8 @@ Excellent resources if you still wish to expand your knowledege, ordered by my s
 
 - https://www.learncpp.com/
 
+- https://roadmap.sh/cpp
+
 - https://en.cppreference.com/w/
 
 - Google search `c++ tutorial github`
@@ -23,6 +25,12 @@ Excellent resources if you still wish to expand your knowledege, ordered by my s
 ## Examples
 
 - [helloworld.md](/Examples/helloworld.md) | [C++ Code](/Examples/helloworld_cpp.cpp) | [C Code](/Examples/helloworld_c.c)
+
+- [firstprogram.cpp](/Examples/firstprogram.cpp)
+
+- [secondprogram.cpp](/Examples/secondprogram.cpp)
+
+- [thirdprogram.cpp](/Examples/thirdprogram.cpp)
 
 ## Module 0
 
